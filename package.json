@@ -78,7 +78,6 @@
     "lodash.pick": "^4.3.0",
     "mocha": "^2.5.3",
     "redux": "^3.0.0",
-    "redux-saga": "^0.10.4",
     "rimraf": "^2.5.4",
     "webpack": "^1.11.0"
   },
@@ -88,6 +87,7 @@
   "dependencies": {
     "lodash.pick": "^4.3.0",
     "query-string": "^4.2.2",
-    "superagent": "^2.1.0"
+    "superagent": "^2.1.0",
+    "redux-saga": "^0.10.4"
   }
 }
