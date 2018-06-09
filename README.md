@@ -255,7 +255,11 @@ Take a look at the `examples` folder. The `real-world` example is exactly the sa
 
 ```
 git clone https://github.com/PCreations/redux-paginator.git
-cd redux-paginator/examples/real-world
+cd redux-paginator
 npm install
+
+cd examples/real-world
+npm install
+
 npm start
 ```
